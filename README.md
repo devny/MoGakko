@@ -19,7 +19,7 @@ https://bumwoopark.github.io/
 
 ### IOS 
 
-- 스냅샷(SnapShot)?? 이게뭐지 : https://bumwoopark.github.io/blog/2017/06/01/SnapshotView/
+- [스냅샷(SnapShot)?? 이게뭐지](https://bumwoopark.github.io/blog/2017/06/01/SnapshotView/)
 
 
 
@@ -27,7 +27,7 @@ https://bumwoopark.github.io/
 
 ### RxSwift
 
-- share을 쓰게된 간단한 이유 https://bumwoopark.github.io/blog/2018/03/08/share/
+- [share을 쓰게된 간단한 이유](https://bumwoopark.github.io/blog/2018/03/08/share/)
 
 
 ### Web
