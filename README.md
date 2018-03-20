@@ -9,7 +9,8 @@
 - bumwoopark: 
 https://bumwoopark.github.io/
 
-- 
+- jhyejun:
+<http://jhyejun.com/blog>
 
 - 
 
@@ -35,3 +36,7 @@ https://bumwoopark.github.io/
 - [Restful 정리](https://bumwoopark.github.io/blog/2018/03/13/restful/)
 
 
+### 기록일지
+- 2018.03.19
+    - jhyejun:
+    <http://jhyejun.com/mogakko-record-journal-1/>
