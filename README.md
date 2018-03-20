@@ -34,6 +34,7 @@ https://bumwoopark.github.io/
 ### Web
 
 - [Restful 정리](https://bumwoopark.github.io/blog/2018/03/13/restful/)
+- [WebSocker 생각 및 정리](https://bumwoopark.github.io/blog/2018/03/19/websocket/)
 
 
 ### 기록일지
