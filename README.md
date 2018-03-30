@@ -41,3 +41,7 @@ https://bumwoopark.github.io/
 - 2018.03.19
     - jhyejun:
     <http://jhyejun.com/mogakko-record-journal-1/>
+
+- 2018.03.29
+    - jhyejun:
+    <http://jhyejun.com/mogakko-record-journal-2/>
