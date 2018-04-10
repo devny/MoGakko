@@ -39,7 +39,7 @@ https://bumwoopark.github.io/
 ### block chain
 
 - [HyperLedger Fabric Model](https://bumwoopark.github.io/blog/2018/04/02/fabricmodel/)
-
+- [블록체인 및 Fabric 기본](https://bumwoopark.github.io/blog/2018/04/10/FabricBasic/)
 
 ### 기록일지
 - 2018.03.19
