@@ -1,5 +1,5 @@
 # 강남 모각코 :city_sunset:
-![GitHub contributors](https://img.shields.io/github/contributors/cdnjs/cdnjs.svg?style=social)
+[![GitHub contributors](https://img.shields.io/github/contributors/cdnjs/cdnjs.svg?style=social)](https://github.com/devny/MoGakko)
 
 개발자들의 기술 공유 및 성장을 위한 기록 및 메모 :book:
 
