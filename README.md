@@ -51,3 +51,7 @@ https://bumwoopark.github.io/
 - 2018.04.19
     - jhyejun:
     [2018년 4월 19일 모각코 기록일지](http://jhyejun.com/blog/mogakko-record-journal-3)
+
+- 2018.04.26
+    - jhyejun:
+    [2018년 4월 26일 모각코 기록일지](http://jhyejun.com/blog/mogakko-record-journal-4)
