@@ -70,3 +70,7 @@ https://bumwoopark.github.io/
 - 2018.05.17
     - jhyejun:
     [2018년 5월 17일 모각코 기록일지](http://jhyejun.com/blog/mogakko-record-journal-7)
+
+- 2018.05.24
+    - jhyejun:
+    [2018년 5월 24일 모각코 기록일지](http://jhyejun.com/blog/mogakko-record-journal-8)
